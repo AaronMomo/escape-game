@@ -1,10 +1,10 @@
 # Titre de l'escape game
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Geovanni Lopez
 
 ## Le public cible
 
-- Pour qui : ...
+- Pour qui : Personnes 18+
 - Ce qui est important pour eux : ...
 
 ## La conception
